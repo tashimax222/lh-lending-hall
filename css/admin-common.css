@@ -1,0 +1,45 @@
+.lh_hall_box ul{
+  padding: 10px 0;
+}
+.lh_hall_box ul li{
+  display: inline-block;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background: #e5e5e5;
+  width: 100px;
+  text-align: center;
+}
+.lh_hall_box ul li a{
+  color: #555;
+  text-decoration: none;
+}
+.lh_hall_box ul li.current_link a{
+  font-weight: bold;
+}
+
+.lh_ym_box ul li{
+  display: inline-block;
+  padding: 10px;
+  width: 100px;
+  text-align: center;
+}
+
+
+#lh-lending-hall-form table {
+
+}
+
+#lh-lending-hall-form table th:nth-child(1) {
+  width:8%;
+}
+#lh-lending-hall-form table th:nth-child(2) {
+  width:8%;
+}
+
+#lh-lending-hall-form .sunday_color{
+  background:#f8cecc;
+}
+
+#lh-lending-hall-form .saturday_color{
+  background:#d4e1f5;
+}
